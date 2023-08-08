@@ -10,14 +10,14 @@ public class Main {
         ContactDAO contactDao = new ContactDAO();
 
         Contact contact1 = new Contact();
-        contact1.setName("Jonas Pedrolas");
+        contact1.setName("r Kyzok");
         contact1.setAge(25);
         contact1.setRegisterDate(new Date());
 
         //contactDao.save(contact1);
 
         Contact contact1Up = new Contact();
-        contact1Up.setName("Ryan Iug Ramos");
+        contact1Up.setName("rKyzoka");
         contact1Up.setAge(22);
         contact1Up.setRegisterDate(new Date());
         contact1Up.setId(1);
